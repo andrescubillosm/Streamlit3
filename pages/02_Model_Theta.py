@@ -19,7 +19,6 @@ import pandas as pd
 
 
 
-
 st.title(":chart_with_upwards_trend: Model Theta")
 
 
