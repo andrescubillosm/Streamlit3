@@ -1,0 +1,234 @@
+,IDProducto,Categoria,SubCategoria
+0,122902,Quitagrasa,Quitagrasa Pistola
+1,122904,Quitagrasa,Quitagrasa Repuesto
+2,122905,Quitagrasa,Multiusos Repuesto
+3,122907,Quitagrasa,Quitagrasa Repuesto
+4,122908,Quitagrasa,Multiusos Pistola
+5,125010,Limpia Vidrios,Vidrios Repuesto
+6,125011,Limpia Vidrios,Vidrios Repuesto
+7,125032,Limpia Vidrios,Vidrios Repuesto
+8,125033,Limpia Vidrios,Vidrios Pistola
+9,123032,Limpia Baños,Liquido
+10,123033,Limpia Baños,Liquido
+11,123034,Limpia Baños,Pastillas Blanco
+12,123079,Quitagrasa,Quitagrasa Pistola
+13,123080,Quitagrasa,Quitagrasa Pistola
+14,124993,Quitagrasa,Quitagrasa Pistola
+15,125008,Quitagrasa,Quitagrasa Repuesto
+16,125009,Quitagrasa,Quitagrasa Repuesto
+17,125029,Quitagrasa,Quitagrasa Repuesto
+18,125030,Quitagrasa,Quitagrasa Repuesto
+19,125031,Quitagrasa,Quitagrasa Repuesto
+20,125041,Quitagrasa,Quitagrasa Repuesto
+21,125042,Quitagrasa,Quitagrasa Pistola
+22,129219,Quitagrasa,Quitagrasa Repuesto
+23,123035,Limpia Baños,Pastillas Azules
+24,122956,Detergentes,Ropa Oscura 1800ml
+25,122957,Detergentes,Todos Los Dias 1800ml
+26,122958,Detergentes,Todos Los Dias 3785ml
+27,122959,Detergentes,Ropa Oscura 3785ml
+28,122960,Detergentes,Ropa Bebe 900ml
+29,122961,Detergentes,Ropa Oscura 500ml
+30,122962,Detergentes,Ropa Oscura 5000ml
+31,122963,Detergentes,Todos Los Dias 5000ml
+32,122964,Detergentes,Ropa Oscura 900ml
+33,122965,Detergentes,Todos Los Dias 900ml
+34,122966,Detergentes,Ropa Oscura 5000ml
+35,122967,Detergentes,Todos Los Dias 5000ml
+36,122968,Detergentes,Todos Los Dias 300ml
+37,122969,Detergentes,Ropa Bebe 2000ml
+38,123036,Limpia Baños,Pastillas Azules
+39,123037,Limpia Baños,Pastillas Azules
+40,125012,Limpia Baños,Pastillas Blanco
+41,122911,Lava Vajillas,Tabletas
+42,122912,Lava Vajillas,Abrillantador
+43,123084,Detergentes,Todos Los Dias 3785ml + 900 Ml
+44,123085,Detergentes,Ropa Oscura 3785ml + 900 Ml
+45,124976,Detergentes,Todos Los Dias 1800ml
+46,124977,Detergentes,Todos Los Dias 1000ml
+47,124978,Detergentes,Todos Los Dias 2000ml
+48,124979,Detergentes,Todos Los Dias 3785ml X2
+49,124980,Detergentes,Todos Los Dias 1000ml + 2000ml
+50,124981,Detergentes,Ropa Oscura 1800ml
+51,124982,Detergentes,Ropa Oscura 1000ml
+52,124983,Detergentes,Ropa Oscura 2000ml
+53,124984,Detergentes,Ropa Oscura 3785ml X2
+54,124985,Detergentes,Ropa Bebe 1000ml
+55,123030,Lava Vajillas,Polvo
+56,125040,Detergentes,Todos Los Dias 5400ml
+57,125052,Detergentes,Ropa Oscura 2000ml
+58,125053,Detergentes,Ropa Oscura 900ml
+59,125054,Detergentes,Todos Los Dias 900ml
+60,125055,Detergentes,Todos Los Dias 3600ml
+61,129216,Detergentes,Ropa Bebe 3785ml
+62,125043,Lava Vajillas,Liquido
+63,125044,Lava Vajillas,Abrillantador
+64,123045,Limpia Pisos Especializados,Pisos
+65,123046,Limpia Pisos Especializados,Pisos
+66,123050,Limpia Pisos Especializados,Pisos
+67,123056,Cuidado Muebles,Cubrerasguños
+68,123058,Cuidado Muebles,Lustramuebles
+69,124970,Cuidado Muebles,Lustramuebles
+70,125036,Cuidado Muebles,Lustramuebles
+71,122891,Limpiadores Especializados,Bronce Y Otros Pulidores De Metales
+72,122909,Limpiadores Especializados,Limpiadores De Hornos
+73,122910,Limpiadores Especializados,Limpiadores De Hornos
+74,122926,Limpiadores Especializados,Pulidores De Metales En Plata
+75,123051,Limpia Pisos Especializados,Pisos
+76,123052,Limpia Pisos Especializados,Pisos
+77,123053,Limpia Pisos Especializados,Pisos
+78,125057,Limpiadores Especializados,Limpiadores De Hornos
+79,122927,Desmanchadores,Liquido Blanco
+80,122928,Desmanchadores,Liquido Rosa
+81,122929,Desmanchadores,Liquido Blanco
+82,122930,Desmanchadores,Liquido Rosa
+83,122931,Desmanchadores,Liquido Blanco
+84,122932,Desmanchadores,Liquido Rosa
+85,122933,Desmanchadores,Liquido Blanco
+86,122934,Desmanchadores,Liquido Rosa
+87,122935,Desmanchadores,Liquido Blanco
+88,122936,Desmanchadores,Liquido Rosa
+89,122937,Desmanchadores,Liquido Blanco
+90,122938,Desmanchadores,Liquido Rosa
+91,122939,Desmanchadores,Liquido Rosa
+92,122940,Desmanchadores,Liquido Rosa
+93,122941,Desmanchadores,Liquido Blanco
+94,122942,Desmanchadores,Liquido Blanco
+95,122943,Desmanchadores,Polvo Blanco
+96,122944,Desmanchadores,Polvo Blanco
+97,122945,Desmanchadores,Polvo Rosa
+98,122946,Desmanchadores,Polvo Blanco
+99,122947,Desmanchadores,Polvo Rosa
+100,122948,Desmanchadores,Polvo Blanco
+101,122949,Desmanchadores,Polvo Blanco
+102,122950,Desmanchadores,Polvo Blanco
+103,122951,Desmanchadores,Polvo Rosa
+104,122952,Desmanchadores,Polvo Blanco
+105,122953,Desmanchadores,Polvo Rosa
+106,123054,Limpia Pisos Especializados,Pisos
+107,123055,Limpia Pisos Especializados,Pisos
+108,124998,Limpia Pisos Especializados,Pisos
+109,124999,Limpia Pisos Especializados,Pisos
+110,122913,Limpia Pisos,Alegria
+111,122914,Limpia Pisos,Energia
+112,122915,Limpia Pisos,Tranquilidad
+113,122916,Limpia Pisos,Canela Manzana
+114,122917,Limpia Pisos,Vainilla
+115,122918,Limpia Pisos,Lavanda
+116,122919,Limpia Pisos,Tranquilidad
+117,122920,Limpia Pisos,Canela Manzana
+118,122921,Limpia Pisos,Lavanda
+119,122922,Limpia Pisos,Canela Manzana
+120,122923,Limpia Pisos,Vainilla
+121,123082,Desmanchadores,Liquido Blanco
+122,123083,Desmanchadores,Liquido Rosa
+123,124986,Desmanchadores,Prelavado Pistola
+124,124987,Desmanchadores,Prelavado Pistola + Repuesto
+125,124988,Desmanchadores,Polvo Rosa
+126,124989,Desmanchadores,Polvo Rosa
+127,124990,Desmanchadores,Polvo Rosa
+128,124991,Desmanchadores,Polvo Rosa
+129,124992,Desmanchadores,Liquido Blanco Y Rosa
+130,124994,Desmanchadores,Polvo Blanco
+131,124995,Desmanchadores,Polvo Blanco
+132,124996,Desmanchadores,Polvo Rosa
+133,122924,Limpia Pisos,Canela Manzana
+134,125017,Desmanchadores,Polvo Rosa
+135,125018,Desmanchadores,Liquido Rosa
+136,125019,Desmanchadores,Liquido Blanco
+137,125020,Desmanchadores,Polvo Blanco
+138,125021,Desmanchadores,Polvo Rosa
+139,125022,Desmanchadores,Liquido Rosa
+140,125023,Desmanchadores,Liquido Rosa
+141,125024,Desmanchadores,Liquido Blanco
+142,125025,Desmanchadores,Liquido Rosa
+143,125026,Desmanchadores,Liquido Blanco
+144,125027,Desmanchadores,Polvo Rosa
+145,125028,Desmanchadores,Polvo Blanco
+146,125034,Desmanchadores,Liquido Rosa
+147,125035,Desmanchadores,Liquido Blanco
+148,125045,Desmanchadores,Liquido Blanco Y Rosa
+149,125056,Desmanchadores,Prelavado Repuesto
+150,125058,Desmanchadores,Liquido Rosa
+151,122925,Limpia Pisos,Lavanda
+152,123060,Limpia Pisos,Lavanda
+153,123061,Limpia Pisos,Vainilla
+154,123062,Limpia Pisos,Canela Manzana
+155,123063,Limpia Pisos,Perfumados
+156,123064,Limpia Pisos,Perfumados
+157,123065,Limpia Pisos,Perfumados
+158,123057,Ceras,Especializados
+159,123059,Ceras,Brillo Instantaneo
+160,123081,Ceras,Brillo Instantaneo
+161,124971,Ceras,Brillo Instantaneo
+162,124972,Ceras,Brillo Instantaneo
+163,124973,Ceras,Brillo Instantaneo
+164,124974,Ceras,Maximo Brillo
+165,124975,Ceras,Maximo Brillo
+166,125016,Ceras,Brillo Instantaneo
+167,125037,Ceras,Brillo Instantaneo
+168,125038,Ceras,Brillo Instantaneo
+169,123066,Limpia Pisos,Alegria
+170,123067,Limpia Pisos,Energia
+171,123068,Limpia Pisos,Tranquilidad
+172,123069,Limpia Pisos,Vainilla
+173,123070,Limpia Pisos,Lavanda
+174,123071,Limpia Pisos,Canela Manzana
+175,123072,Limpia Pisos,Sanpic Mascotas
+176,123073,Limpia Pisos,Alegria
+177,123074,Limpia Pisos,Energia
+178,123075,Limpia Pisos,Tranquilidad
+179,123076,Limpia Pisos,Canela Manzana
+180,123077,Limpia Pisos,Lavanda
+181,123078,Limpia Pisos,Vainilla
+182,125000,Limpia Pisos,Lavanda
+183,125001,Limpia Pisos,Vainilla
+184,125002,Limpia Pisos,Canela Manzana
+185,125003,Limpia Pisos,Tranquilidad
+186,125004,Limpia Pisos,Energia
+187,125005,Limpia Pisos,Alegria
+188,125006,Limpia Pisos,Lavanda
+189,125007,Limpia Pisos,Vainilla
+190,129217,Limpia Pisos,Sanpic Mascotas
+191,129218,Limpia Pisos,Lavanda
+192,122892,Betun,Pasta 96gr Negro
+193,122893,Betun,Cremoso 100ml
+194,122894,Betun,Pasta 65gr Cherry
+195,122895,Betun,Pasta 30gr Cherry
+196,122896,Betun,Liquidos Cherry
+197,122897,Betun,Liquidos Cherry
+198,122898,Betun,Liquidos Cherry
+199,122899,Betun,Pasta 12gr Cherry
+200,122900,Betun,Pasta 12gr Cherry
+201,123031,Betun,Liquidos Griffin
+202,125046,Ambientadores,Ambientadores Electricos
+203,125047,Ambientadores,Ambientadores Electricos
+204,125048,Ambientadores,Ambientadores Electricos
+205,125049,Ambientadores,Ambientadores Electricos
+206,125050,Ambientadores,Ambientadores Electricos
+207,125051,Ambientadores,Ambientadores Fm
+208,129209,Ambientadores,Repuesto X 2
+209,129210,Ambientadores,Repuesto X 2
+210,129211,Ambientadores,Repuesto X 2
+211,125013,Betun,Liquidos Cherry
+212,125014,Betun,Liquidos Cherry
+213,125015,Betun,Pasta 65gr Cherry
+214,123038,Desinfeccion,Aerosoles
+215,123039,Desinfeccion,Aerosoles
+216,123040,Desinfeccion,Pañitos
+217,123041,Desinfeccion,Pañitos
+218,123042,Desinfeccion,Pañitos
+219,123043,Desinfeccion,Pañitos
+220,123044,Desinfeccion,Aerosoles
+221,123047,Desinfeccion,Lysol Cocina
+222,123048,Desinfeccion,Aerosoles
+223,123049,Desinfeccion,Aerosoles
+224,129215,Desinfeccion,Ropa
+225,129212,Betun,Pasta 30gr Cherry
+226,129213,Betun,Pasta 65gr Cherry
+227,122901,Limpia Vidrios,Vidrios Pistola
+228,122903,Limpia Vidrios,Vidrios Repuesto
+229,122906,Limpia Vidrios,Vidrios Repuesto
+230,129214,Betun,Liquidos Griffin
+231,122954,Prelavado,Prelavado Repuesto
+232,122955,Prelavado,Prelavado Repuesto

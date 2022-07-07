@@ -1,0 +1,11 @@
+plotly
+plotly_express
+matplotlib
+streamlit_folium
+folium
+thinker
+pydeck
+branca
+pandas
+autots
+statsmodels
